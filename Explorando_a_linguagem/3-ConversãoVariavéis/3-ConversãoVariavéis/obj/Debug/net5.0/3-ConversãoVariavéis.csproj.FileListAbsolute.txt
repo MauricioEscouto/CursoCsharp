@@ -1,0 +1,15 @@
+C:\Users\Suporte\Desktop\CursoCsharp-main\3-ConversãoVariavéis\3-ConversãoVariavéis\bin\Debug\net5.0\3-ConversãoVariavéis.exe
+C:\Users\Suporte\Desktop\CursoCsharp-main\3-ConversãoVariavéis\3-ConversãoVariavéis\bin\Debug\net5.0\3-ConversãoVariavéis.deps.json
+C:\Users\Suporte\Desktop\CursoCsharp-main\3-ConversãoVariavéis\3-ConversãoVariavéis\bin\Debug\net5.0\3-ConversãoVariavéis.runtimeconfig.json
+C:\Users\Suporte\Desktop\CursoCsharp-main\3-ConversãoVariavéis\3-ConversãoVariavéis\bin\Debug\net5.0\3-ConversãoVariavéis.runtimeconfig.dev.json
+C:\Users\Suporte\Desktop\CursoCsharp-main\3-ConversãoVariavéis\3-ConversãoVariavéis\bin\Debug\net5.0\3-ConversãoVariavéis.dll
+C:\Users\Suporte\Desktop\CursoCsharp-main\3-ConversãoVariavéis\3-ConversãoVariavéis\bin\Debug\net5.0\ref\3-ConversãoVariavéis.dll
+C:\Users\Suporte\Desktop\CursoCsharp-main\3-ConversãoVariavéis\3-ConversãoVariavéis\bin\Debug\net5.0\3-ConversãoVariavéis.pdb
+C:\Users\Suporte\Desktop\CursoCsharp-main\3-ConversãoVariavéis\3-ConversãoVariavéis\obj\Debug\net5.0\3-ConversãoVariavéis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte\Desktop\CursoCsharp-main\3-ConversãoVariavéis\3-ConversãoVariavéis\obj\Debug\net5.0\3-ConversãoVariavéis.AssemblyInfoInputs.cache
+C:\Users\Suporte\Desktop\CursoCsharp-main\3-ConversãoVariavéis\3-ConversãoVariavéis\obj\Debug\net5.0\3-ConversãoVariavéis.AssemblyInfo.cs
+C:\Users\Suporte\Desktop\CursoCsharp-main\3-ConversãoVariavéis\3-ConversãoVariavéis\obj\Debug\net5.0\3-ConversãoVariavéis.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Desktop\CursoCsharp-main\3-ConversãoVariavéis\3-ConversãoVariavéis\obj\Debug\net5.0\3-ConversãoVariavéis.dll
+C:\Users\Suporte\Desktop\CursoCsharp-main\3-ConversãoVariavéis\3-ConversãoVariavéis\obj\Debug\net5.0\ref\3-ConversãoVariavéis.dll
+C:\Users\Suporte\Desktop\CursoCsharp-main\3-ConversãoVariavéis\3-ConversãoVariavéis\obj\Debug\net5.0\3-ConversãoVariavéis.pdb
+C:\Users\Suporte\Desktop\CursoCsharp-main\3-ConversãoVariavéis\3-ConversãoVariavéis\obj\Debug\net5.0\3-ConversãoVariavéis.genruntimeconfig.cache
