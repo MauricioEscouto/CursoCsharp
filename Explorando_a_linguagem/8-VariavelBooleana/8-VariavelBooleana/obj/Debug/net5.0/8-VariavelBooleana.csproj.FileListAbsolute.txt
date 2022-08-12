@@ -1,0 +1,15 @@
+C:\Users\Suporte\Desktop\CursoCsharp-main\Explorando_a_linguagem\8-VariavelBooleana\8-VariavelBooleana\bin\Debug\net5.0\8-VariavelBooleana.exe
+C:\Users\Suporte\Desktop\CursoCsharp-main\Explorando_a_linguagem\8-VariavelBooleana\8-VariavelBooleana\bin\Debug\net5.0\8-VariavelBooleana.deps.json
+C:\Users\Suporte\Desktop\CursoCsharp-main\Explorando_a_linguagem\8-VariavelBooleana\8-VariavelBooleana\bin\Debug\net5.0\8-VariavelBooleana.runtimeconfig.json
+C:\Users\Suporte\Desktop\CursoCsharp-main\Explorando_a_linguagem\8-VariavelBooleana\8-VariavelBooleana\bin\Debug\net5.0\8-VariavelBooleana.runtimeconfig.dev.json
+C:\Users\Suporte\Desktop\CursoCsharp-main\Explorando_a_linguagem\8-VariavelBooleana\8-VariavelBooleana\bin\Debug\net5.0\8-VariavelBooleana.dll
+C:\Users\Suporte\Desktop\CursoCsharp-main\Explorando_a_linguagem\8-VariavelBooleana\8-VariavelBooleana\bin\Debug\net5.0\ref\8-VariavelBooleana.dll
+C:\Users\Suporte\Desktop\CursoCsharp-main\Explorando_a_linguagem\8-VariavelBooleana\8-VariavelBooleana\bin\Debug\net5.0\8-VariavelBooleana.pdb
+C:\Users\Suporte\Desktop\CursoCsharp-main\Explorando_a_linguagem\8-VariavelBooleana\8-VariavelBooleana\obj\Debug\net5.0\8-VariavelBooleana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte\Desktop\CursoCsharp-main\Explorando_a_linguagem\8-VariavelBooleana\8-VariavelBooleana\obj\Debug\net5.0\8-VariavelBooleana.AssemblyInfoInputs.cache
+C:\Users\Suporte\Desktop\CursoCsharp-main\Explorando_a_linguagem\8-VariavelBooleana\8-VariavelBooleana\obj\Debug\net5.0\8-VariavelBooleana.AssemblyInfo.cs
+C:\Users\Suporte\Desktop\CursoCsharp-main\Explorando_a_linguagem\8-VariavelBooleana\8-VariavelBooleana\obj\Debug\net5.0\8-VariavelBooleana.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Desktop\CursoCsharp-main\Explorando_a_linguagem\8-VariavelBooleana\8-VariavelBooleana\obj\Debug\net5.0\8-VariavelBooleana.dll
+C:\Users\Suporte\Desktop\CursoCsharp-main\Explorando_a_linguagem\8-VariavelBooleana\8-VariavelBooleana\obj\Debug\net5.0\ref\8-VariavelBooleana.dll
+C:\Users\Suporte\Desktop\CursoCsharp-main\Explorando_a_linguagem\8-VariavelBooleana\8-VariavelBooleana\obj\Debug\net5.0\8-VariavelBooleana.pdb
+C:\Users\Suporte\Desktop\CursoCsharp-main\Explorando_a_linguagem\8-VariavelBooleana\8-VariavelBooleana\obj\Debug\net5.0\8-VariavelBooleana.genruntimeconfig.cache
